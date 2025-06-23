@@ -1,0 +1,9 @@
+{
+    "name": "pxt-compass",
+    "version": "0.0.1",
+    "description": "Skip compass calibration",
+    "dependencies": {},
+    "files": [
+        "main.ts"
+    ]
+}
